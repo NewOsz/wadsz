@@ -1,41 +1,41 @@
 # Telegram Auto Forward Bot
 
-A powerful Telegram bot for managing and automating message forwarding across groups and channels. This bot offers multiple features, such as whitelist management, manual and auto-forwarding, and a user-friendly interface, all designed to make your Telegram experience seamless.
+Bot Telegram untuk mengelola dan mengotomatiskan penerusan pesan di seluruh grup dan saluran. Bot ini menawarkan beberapa fitur, seperti manajemen whitelist, penerusan manual dan otomatis, dan antarmuka yang ramah pengguna, semuanya dirancang untuk membuat pengalaman Telegram Anda lancar.
 
-## Features
+## Fitur
 
-### 1. **Group & Channel Management**
+### 1. Manajemen Grup & Saluran ** ** Manajemen Grup & Saluran
 
-- View the list of connected groups and channels, including their ID and username.
-- Only displays groups and channels where the bot is a member, ensuring accurate visibility of your managed groups.
+- Lihat daftar grup dan saluran yang terhubung, termasuk ID dan nama pengguna mereka.
+- Hanya menampilkan grup dan saluran di mana bot menjadi anggota, memastikan visibilitas yang akurat dari grup yang Anda kelola.
 
-### 2. **Whitelist Management**
+### 2. **Manajemen Whitelist**
 
-- Add and manage group/channel IDs to a whitelist, allowing only approved content to be forwarded.
-- Easily remove IDs from the whitelist using an inline keyboard for smooth interactions.
-- Ensures only authorized groups and channels can receive forwarded messages.
+- Menambahkan dan mengelola ID grup/saluran ke whitelist, sehingga hanya konten yang disetujui yang dapat diteruskan.
+- Menghapus ID dari whitelist dengan mudah menggunakan keyboard sebaris untuk interaksi yang lancar.
+- Memastikan hanya grup dan saluran yang diotorisasi yang dapat menerima pesan yang diteruskan.
 
-### 3. **Auto-Forward Feature**
+### 3. **Fitur Penerusan Otomatis**
 
-- Set a time interval (in minutes) to automatically forward messages to all whitelisted IDs.
-- Specify which message should be forwarded automatically.
-- Includes support for customizable delay between forwards to avoid hitting rate limits.
-- Ability to disable auto-forward while retaining message and interval settings.
+- Tetapkan interval waktu (dalam menit) untuk meneruskan pesan secara otomatis ke semua ID yang masuk whitelist.
+- Tentukan pesan mana yang harus diteruskan secara otomatis.
+- Termasuk dukungan untuk penundaan yang dapat disesuaikan antara penerusan untuk menghindari mencapai batas kecepatan.
+- Kemampuan untuk menonaktifkan penerusan otomatis sambil mempertahankan pengaturan pesan dan interval.
 
-### 4. **Manual Forwarding**
+### 4. **Penerusan Manual ** Penerusan Manual
 
-- Forward messages manually to all whitelisted IDs.
-- Real-time progress bar and statistics (success/failure) to track the status of the forwarded messages.
-- Provides granular control over the forwarding process.
+- Meneruskan pesan secara manual ke semua ID yang masuk whitelist.
+- Bilah kemajuan waktu nyata dan statistik (sukses/gagal) untuk melacak status pesan yang diteruskan.
+- Menyediakan kontrol granular atas proses penerusan.
 
-### 5. **Security & Reliability**
+### 5. Keamanan & Keandalan ** ** Keamanan & Keandalan
 
-- Implements a whitelist system, ensuring that only authorized users can control the bot.
-- Robust error handling ensures stability and prevents interruptions in the bot’s operation.
-- Saves configuration and data to files, allowing the bot to persist even when it is stopped or restarted.
+- Menerapkan sistem whitelist, memastikan bahwa hanya pengguna yang berwenang yang dapat mengontrol bot.
+- Penanganan kesalahan yang kuat memastikan stabilitas dan mencegah gangguan dalam operasi bot.
+- Menyimpan konfigurasi dan data ke file, memungkinkan bot untuk bertahan bahkan ketika dihentikan atau dimulai ulang.
 
-### 6. **Intuitive User Interface**
+### 6. Antarmuka Pengguna yang Intuitif ** ** Antarmuka Pengguna yang Intuitif
 
-- Uses easy-to-remember commands that make interacting with the bot simple.
-- Provides clear and detailed feedback for each user action.
-- Access a full guide by typing `/start` to help users get familiar with all available features.
+- Menggunakan perintah yang mudah diingat yang membuat interaksi dengan bot menjadi sederhana.
+- Memberikan umpan balik yang jelas dan terperinci untuk setiap tindakan pengguna.
+- Akses panduan lengkap dengan mengetik `/start` untuk membantu pengguna membiasakan diri dengan semua fitur yang tersedia.
